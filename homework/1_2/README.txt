@@ -1,0 +1,1 @@
+Division: 812057129672 กา 13769107 = quotient A, with reminder B, print A and B

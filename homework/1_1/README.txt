@@ -1,0 +1,1 @@
+What is 2 to the 48th power, and 5 to the 16th power?
